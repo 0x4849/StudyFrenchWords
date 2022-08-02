@@ -12,4 +12,4 @@ whereby 80% of the time it greedily asks the user to think of a definition for t
 
 
 
-I will likely tweak the algorithm in the future until I find a more optimal way of computing a frequency count + user knowledge score combination. In particular, the last date revised can be used as a variable along with the old knowledge score to be combined with the new knowledge score to provide a more accurate overall view of the knowledge of the given card.
+I will likely tweak the algorithm in the future until I find a more optimal way of computing a frequency count + user knowledge score combination. In particular, the last date revised can be used as a variable along with the old knowledge score to be combined with the new knowledge score to provide a more accurate overall view of the user's knowledge of the given word's definition.

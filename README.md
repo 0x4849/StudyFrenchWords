@@ -3,7 +3,7 @@ Given a database of words in French consisting of a word and its frequency count
 
 Via the command prompt, the user is prompted to think of a definition for a french word.
 Then the definition is shown via collins dictionary
-Then, the user is asked to provide a score of 1 to 5 based on how well I know this definition with 5 being very well and 1 being not at all.
+Then, the user is asked to provide a score of 1 to 5 based on how well the user knows this definition with 5 being very well and 1 being not at all.
 The knowledge of the word(based on a numeric value 1 to 5) is stored in an SQLite databse based on this input.
 
 The algorithm continues to choose words to study based on the criteria of a simple reinforcement learning algorithm called the greedy bandit's algorithm
